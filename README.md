@@ -10,4 +10,8 @@ Hello! I'm Rayleigh, a passionate developer specializing in Discord bots. I enjo
 - **Discord Bot Frameworks:** Discord.js
 - **Bot Development Tools:** Visual Studio Code, npm (Node Package Manager)
 
+## Connect with Me 🌐
+
+**Discord:** ayoubino1
+
 Feel free to connect with me through any of the above channels. I'm open to discussions, collaborations, and new opportunities.
