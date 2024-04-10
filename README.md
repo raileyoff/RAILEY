@@ -6,7 +6,7 @@ Hello! I'm Rayleigh, a passionate developer specializing in Discord bots. I enjo
 
 ## Skills 💻
 
-- **Programming Languages:** JavaScript
+- **Programming Languages:** JavaScript (Node.js)
 - **Discord Bot Frameworks:** Discord.js
 - **Bot Development Tools:** Visual Studio Code, npm (Node Package Manager)
 
