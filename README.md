@@ -2,7 +2,7 @@
 
 ## About Me 💬
 
-Hello! I'm Rayleigh, a passionate developer specializing in Discord bots. I enjoy creating innovative solutions to enhance Discord server experiences and bring communities together through automation and interaction. With a strong background in JavaScript (Node.js), I'm dedicated to crafting high-quality, reliable bots that exceed expectations
+Hello! I'm Railey, a passionate developer specializing in Discord bots. I enjoy creating innovative solutions to enhance Discord server experiences and bring communities together through automation and interaction. With a strong background in JavaScript (Node.js), I'm dedicated to crafting high-quality, reliable bots that exceed expectations
 
 ## Skills 💻
 
@@ -12,6 +12,6 @@ Hello! I'm Rayleigh, a passionate developer specializing in Discord bots. I enjo
 
 ## Connect with Me 🌐
 
-**Discord:** ayoubino1
+**Discord:** raileyoff
 
 Feel free to connect with me through any of the above channels. I'm open to discussions, collaborations, and new opportunities.
