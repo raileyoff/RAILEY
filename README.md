@@ -1,4 +1,4 @@
-# Welcome to Rayleigh's GitHub Profile! 👋
+# Welcome to Railey's GitHub Profile! 👋
 
 ## About Me 💬
 
