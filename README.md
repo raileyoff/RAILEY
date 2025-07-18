@@ -1,17 +1,24 @@
-# Welcome to Railey's GitHub Profile! 👋
+# 👋 Hello! I'm Ayoub Lachhab
 
-## About Me 💬
+## 🔧 Full-Stack Developer | Discord Bot Maker | Security Enthusiast
 
-Hello! I'm Railey, a passionate developer specializing in Discord bots. I enjoy creating innovative solutions to enhance Discord server experiences and bring communities together through automation and interaction. With a strong background in JavaScript (Node.js), I'm dedicated to crafting high-quality, reliable bots that exceed expectations
+🎯 Passionate about building tools, bots, and apps that solve real problems.  
+🚀 Member of **NextGen Team** — powering the future of bots & automation.  
+💼 Skilled in: Node.js | MongoDB | Discord.js
 
-## Skills 💻
+---
 
-- **Programming Languages:** JavaScript (Node.js)
-- **Discord Bot Frameworks:** Discord.js
-- **Bot Development Tools:** Visual Studio Code, npm (Node Package Manager)
+### 💼 Projects
+- 🔧 [Tellonym Discord Bot](https://github.com/yourproject) – Anonymous messaging
 
-## Connect with Me 🌐
+---
 
-**Discord:** raileyoff
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoublachhab&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoublachhab&layout=compact&theme=radical)
 
-Feel free to connect with me through any of the above channels. I'm open to discussions, collaborations, and new opportunities.
+---
+
+### 🔗 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-NextGen%20Team-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/qfyMRwAAy9)
+
