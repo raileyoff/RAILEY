@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Ayoub Lachhab
+# 👋 Hello! I'm Railey
 
-## 🔧 Full-Stack Developer | Discord Bot Maker | Security Enthusiast
+## 🔧 Discord Bot Maker
 
 🎯 Passionate about building tools, bots, and apps that solve real problems.  
 🚀 Member of **NextGen Team** — powering the future of bots & automation.  
