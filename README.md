@@ -1,24 +1,37 @@
-# 👋 Hello! I'm Railey
-
-## 🔧 Discord Bot Maker
-
-🎯 Passionate about building tools, bots, and apps that solve real problems.  
-🚀 Member of **NextGen Team** — powering the future of bots & automation.  
-💼 Skilled in: Node.js | MongoDB | Discord.js
+<h1 align="center">⚙️ Railey | NextGen Dev ⚙️</h1>
+<p align="center">
+  💻 Discord Bot Developer 
+</p>
 
 ---
 
-### 💼 Projects
-- 🔧 [Tellonym Discord Bot](https://github.com/yourproject) – Anonymous messaging
+### 👋 About Me
+
+- 👑 Owner @ **NextGen Team**
+- 🛡 Creator of powerful **Security & Utility Discord Bots**
+- 🎵 Building tools for **Spotify, Discord, and NextGen Networks**
+- 💼 Working with: `Node.js` • `Discord.js` • `MongoDB` • `Canvas`
+
+---
+
+### 🚀 Featured Projects
+
+- 🔍 [Tellonym Discord Bot](https://github.com/NextGen-Tellonym)  
+  `Anonymous feedback bot for Discord.`
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoublachhab&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoublachhab&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Railey&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 🔗 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-NextGen%20Team-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/qfyMRwAAy9)
+### 🌐 Connect with Me
 
+[![Discord](https://img.shields.io/badge/Discord-NextGen%20Team-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/qfyMRwAAy9)  
+[![Kick](https://img.shields.io/badge/Kick-RaileyOff-00FF00?style=for-the-badge)](https://kick.com/raileyoff)
