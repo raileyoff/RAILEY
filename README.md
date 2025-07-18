@@ -8,8 +8,6 @@
 ### 👋 About Me
 
 - 👑 Owner @ **NextGen Team**
-- 🛡 Creator of powerful **Security & Utility Discord Bots**
-- 🎵 Building tools for **Spotify, Discord, and NextGen Networks**
 - 💼 Working with: `Node.js` • `Discord.js` • `MongoDB` • `Canvas`
 
 ---
@@ -33,5 +31,4 @@
 
 ### 🌐 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-NextGen%20Team-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/qfyMRwAAy9)  
-[![Kick](https://img.shields.io/badge/Kick-RaileyOff-00FF00?style=for-the-badge)](https://kick.com/raileyoff)
+[![Discord](https://img.shields.io/badge/Discord-NextGen%20Team-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/qfyMRwAAy9)
