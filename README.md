@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Railey | NextGen Dev ⚙️</h1>
+<h1 align="center">Railey | NextGen Dev</h1>
 <p align="center">
   💻 Discord Bot Developer 
 </p>
