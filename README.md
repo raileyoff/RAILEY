@@ -34,8 +34,12 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  [![Discord](https://img.shields.io/badge/Discord-NextGen%20Team-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/qfyMRwAAy9)  
-  [![GitHub](https://img.shields.io/badge/GitHub-Raileyoff-181717?style=for-the-badge&logo=github)](https://github.com/raileyoff)  
+  <a href="https://discord.gg/qfyMRwAAy9">
+    <img src="https://img.shields.io/badge/Discord-NextGen%20Team-7289DA?style=for-the-badge&logo=discord" alt="Discord"/>
+  </a>
+  <a href="https://github.com/raileyoff">
+    <img src="https://img.shields.io/badge/GitHub-Raileyoff-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
 ---
