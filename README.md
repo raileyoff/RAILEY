@@ -8,7 +8,7 @@
 ### 👋 About Me
 
 - 👑 Owner & Developer @ **NextGen Team**  
-- 💼 Tech Stack: `Node.js` • `Discord.js` • `MongoDB` • `Canvas` • `Lavalink`  
+- 💼 Tech Stack: `Node.js` • `Discord.js` • `MongoDB` • `Canvas`
 - 🎯 Focused on building **innovative, interactive, and safe Discord bots**  
 - 🌱 Always learning and exploring **new Discord features and bot integrations**
 
