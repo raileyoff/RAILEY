@@ -1,48 +1,85 @@
-<h1 align="center">Railey | NextGen Dev</h1>
-<p align="center">
-  💻 Discord Bot Developer | Passionate about building fun and secure bots
-</p>
+# La sanction de la règle de droit - Présentation Interactive
 
----
+Une présentation web moderne et interactive sur le thème juridique "La sanction de la règle de droit".
 
-### 👋 About Me
+## 🎯 Caractéristiques
 
-- 👑 Owner & Developer @ **NextGen Team**  
-- 💼 Tech Stack: `Node.js` • `Discord.js` • `MongoDB` • `Canvas`
-- 🎯 Focused on building **innovative, interactive, and safe Discord bots**  
-- 🌱 Always learning and exploring **new Discord features and bot integrations**
+- **9 slides professionnelles** couvrant tous les aspects du sujet
+- **Design moderne et élégant** avec animations fluides
+- **Navigation intuitive** : clavier, souris, tactile
+- **Responsive** : fonctionne sur tous les appareils
+- **Mode plein écran** disponible
+- **Imprimable** pour distribution papier
+- **Contenu éditable** : personnalisez le nom et la date
 
----
+## 🚀 Utilisation
 
-### 🚀 Featured Projects
+### Ouvrir la présentation
 
-- 🔹 [Tellonym Bot](https://github.com/raileyoff/Tellonym-Bot)  
-  `Anonymous feedback bot for Discord`  
+Ouvrez simplement le fichier `index.html` dans votre navigateur web.
 
----
+### Navigation
 
-### 📊 GitHub Stats
+- **Flèches ← →** : Naviguer entre les slides
+- **Boutons** : Cliquez sur les boutons précédent/suivant
+- **Indicateurs** : Cliquez sur les points à droite pour aller à une slide spécifique
+- **Tactile** : Glissez à gauche/droite sur mobile
+- **Touches clavier** :
+  - `←` / `→` : Slide précédente/suivante
+  - `Home` : Première slide
+  - `End` : Dernière slide
+  - `F` : Mode plein écran
+  - `P` : Imprimer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Railey&show_icons=true&theme=radical" alt="Railey GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+### Personnalisation
 
----
+Sur la première slide, cliquez sur les zones `[Votre nom]` et `[Date]` pour les modifier.
 
-### 🌐 Connect with Me
+## 📋 Structure de la présentation
 
-<p align="center">
-  <a href="https://discord.gg/qfyMRwAAy9">
-    <img src="https://img.shields.io/badge/Discord-NextGen%20Team-7289DA?style=for-the-badge&logo=discord" alt="Discord"/>
-  </a>
-  <a href="https://github.com/raileyoff">
-    <img src="https://img.shields.io/badge/GitHub-Raileyoff-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+1. **Titre** - Page de garde
+2. **Définition du sujet** - Qu'est-ce que la sanction de la règle de droit ?
+3. **Contexte** - Cadre historique et juridique
+4. **Intérêt du sujet** - Théorique et pratique
+5. **Problématique** - Question centrale
+6. **Annonce du plan** - Structure de l'exposé
+7. **Première partie** - Les mécanismes de sanction
+8. **Deuxième partie** - Les défis et évolutions
+9. **Questions** - Slide finale
 
----
+## 🎨 Design
 
-> 💌 *I build secure, fun, and creative bots for Discord communities. Always learning and improving.*  
+- Police principale : Inter (moderne et lisible)
+- Police titres : Playfair Display (élégante et professionnelle)
+- Couleurs : Bleu marine, or, dégradés subtils
+- Animations : Transitions fluides et professionnelles
 
+## 💡 Conseils pour la présentation
+
+- Durée estimée : 10-15 minutes
+- Utilisez le mode plein écran (touche F) pour présenter
+- Les exemples sont mis en évidence dans des encadrés
+- Les points clés sont animés progressivement
+- Préparez-vous à répondre aux questions sur les exemples concrets
+
+## 🖨️ Impression
+
+Appuyez sur `P` ou utilisez Ctrl+P pour imprimer. Le style d'impression est optimisé pour créer un document PDF ou papier professionnel.
+
+## 📱 Compatibilité
+
+- Chrome, Firefox, Safari, Edge (versions récentes)
+- Desktop, tablette, mobile
+- Fonctionne hors ligne (pas besoin d'internet après le premier chargement)
+
+## 🎓 Contenu académique
+
+Cette présentation suit une méthodologie juridique rigoureuse :
+- Définition claire du sujet
+- Contextualisation historique et juridique
+- Problématique pertinente
+- Plan structuré en deux parties
+- Exemples concrets et actuels
+- Références aux textes et auteurs importants
+
+Bonne présentation ! 🎉
